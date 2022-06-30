@@ -1,5 +1,5 @@
 def secret = 'github'
-def server = 'jenkins2@103.31.38.45'
+def server = 'app2@103.226.138.167'
 def directory = 'housy-frontend'
 def branch = 'production'
 
