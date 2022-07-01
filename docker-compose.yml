@@ -2,8 +2,8 @@ version: '3.8'
 services:
  frontend:
    build: .
-   container_name: fe
-   image: arahmane/housy-fe:stable
+   container_name: fen
+   image: arahmane/housy-fen:stable
    stdin_open: true
    ports:
     - 3030:3000
