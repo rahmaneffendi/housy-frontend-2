@@ -1,6 +1,6 @@
 def secret = 'github'
 def server = 'app2@103.226.138.167'
-def directory = 'housy-frontend'
+def directory = 'housy-frontend-2'
 def branch = 'production'
 
 pipeline{
